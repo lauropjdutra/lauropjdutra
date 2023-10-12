@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😊
+## Bem-vindo(a) ao meu perfil 😊
 
  <div>
    <a href="https://github.com/lauropjdutra">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Siga-me nas redes! 📱
+### Me segue nas redes 📱
  
 <div> 
   <a href="https://www.youtube.com/@lauropjdutra" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
