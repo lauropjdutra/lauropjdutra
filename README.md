@@ -26,30 +26,33 @@
  <a href="https://www.linkedin.com/in/lauropjdutra/" target="_blank"><img alt="LinkedIn" height="24px" src="https://img.icons8.com/ios-glyphs/240/FFFFFF/linkedin-2--v1.png"></a>
  <a href="https://www.instagram.com/lauropjdutra" target="_blank"><img alt="Instagram" height="24px" src="https://img.icons8.com/material-outlined/192/FFFFFF/instagram-new--v1.png"></a>
  <a href="mailto:lauropjdutra@gmail.com" target="_blank"><img alt="Gmail" height="24px" src="https://img.icons8.com/material-outlined/192/FFFFFF/gmail-new.png"></a>
-</div>
+ </div>
 
 <br>
+<div align="center">
+  <img width="20" height="20" src="https://img.icons8.com/ios-filled/100/00bfbf/source-code.png" alt="source-code"/>
+</div>
 <br>
 
 <div align="center">
- <h3>Main skills:</h3>
+ <h4>Main skills:</h4>
  <img height="28px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img height="28px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img height="28px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161b22">
 </div>
 
 <div align="center">
- <h3>Tools:</h3>
- <img height="28px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005fa8?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <h4>Tools:</h4>
+ <img height="25px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005fa8?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img height="28px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
+ <img height="25px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
  <img height="28px" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-eb4040?style=for-the-badge&logo=figma&logoColor=white">
  <img height="28px" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001237?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
 </div>
 
 <div align="center">
- <h3>Other knowledge:</h3>
+ <h4>Other knowledge:</h4>
  <img height="28px" alt="Python" src="https://img.shields.io/badge/Python-206ba8?style=for-the-badge&logo=python&logoColor=white">
  <img height="28px" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
  <img height="28px" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
@@ -58,10 +61,12 @@
 </div>
 
 <div align="center">
- <h3>Studying in this moment:</h3>
+ <h4>Studying in this moment:</h4>
  <img height="28px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161b22">
  <img height="28px" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img height="28px" alt="React.js" src="https://img.shields.io/badge/React.js-61dafb?style=for-the-badge&logo=react&logoColor=161b22">
 </div>
+
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
