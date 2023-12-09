@@ -30,7 +30,7 @@
 
 <br>
 <div align="center">
-  <img width="20" height="20" src="https://img.icons8.com/ios-filled/100/00bfbf/source-code.png" alt="source-code"/>
+  <img width="25" height="25" src="https://img.icons8.com/ios-filled/100/00bfbf/source-code.png" alt="source-code"/>
 </div>
 <br>
 
@@ -43,9 +43,9 @@
 
 <div align="center">
  <h4>Tools:</h4>
- <img height="25px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005fa8?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img height="28px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005fa8?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img height="25px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
+ <img height="28px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
  <img height="28px" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-eb4040?style=for-the-badge&logo=figma&logoColor=white">
  <img height="28px" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001237?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
