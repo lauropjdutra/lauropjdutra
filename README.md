@@ -17,10 +17,11 @@
 </div>
 
 <br>
+<br>
 
   - 🤩️ Amante de tecnologia, café, filmes, livros e synthwave
   - 🚀 Estou sempre buscando conhecimento para poder me destacar no mercado de trabalho e, assim, alcançar minha tão sonhada primeira vaga como Desenvolvedor Front-End
-  - 💻 Estudo na <a href="https://www.estacio.com.br" target="_blank">Estácio</a> e na escola de formação Fullstack <a href="https://www.devclub.com.br" target="_blank">DevClub</a>. Estou praticando <b>JavaScript</b> e <b>React</b> no DevClub, e <b>Python</b> na Estácio
+  - 💻 Estudo na <a href="https://www.estacio.com.br" target="_blank">Estácio</a>, na qual estou aprendendo e praticando <b>Python</b>, e na escola de formação Fullstack <a href="https://www.devclub.com.br" target="_blank">DevClub</a>, onde estou praticando <b>JavaScript</b> e <b>React</b>
   - 👨🏻‍💻 Meu objetivo é me tornar um Desenvolvedor Front-End Web e Mobile
 
 <br>
@@ -56,9 +57,9 @@
 
 <div align="center">
  <h3>Connect with me:</h3>
- <a href="https://www.linkedin.com/in/lauropjdutra/" target="blank"><img alt="LinkedIn" height="24px" src="https://img.icons8.com/ios-glyphs/240/FFFFFF/linkedin-2--v1.png"></a>
- <a href="https://www.instagram.com/lauropjdutra" target="_blank"><img alt="Instagram" height="24px" src="https://img.icons8.com/material-outlined/192/FFFFFF/instagram-new--v1.png"></a>
- <a href="mailto:lauropjdutra@gmail.com" target="_blank"><img alt="Gmail" height="24px" src="https://img.icons8.com/material-outlined/192/FFFFFF/gmail-new.png"></a>
+ <a href="https://www.linkedin.com/in/lauropjdutra/" target="blank"><img alt="LinkedIn" height="24px" src="https://img.icons8.com/ios-glyphs/240/c9d1d9/linkedin-2--v1.png"></a>
+ <a href="https://www.instagram.com/lauropjdutra" target="_blank"><img alt="Instagram" height="24px" src="https://img.icons8.com/material-outlined/192/c9d1d9/instagram-new--v1.png"></a>
+ <a href="mailto:lauropjdutra@gmail.com" target="_blank"><img alt="Gmail" height="24px" src="https://img.icons8.com/material-outlined/192/c9d1d9/gmail-new.png"></a>
  </div>
 
 <br>
