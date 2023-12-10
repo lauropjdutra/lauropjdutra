@@ -5,15 +5,14 @@
 <br>
 
 <div align="center">
-  <a href="https://www.github.com/lauropjdutra">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lauropjdutra&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Lauro Dutra's GitHub Stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropjdutra&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Lauro Dutra's Most Used Languages">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lauropjdutra&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&theme=transparent&border_radius=10" alt="Lauro Dutra's GitHub Stats">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropjdutra&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&theme=transparent&border_radius=10" alt="Lauro Dutra's Most Used Languages">
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lauropjdutra&bg_color=0d1117&color=00bfbf&line=00aeae&point=00dfdf&hide_border=true" alt="Lauro Dutra's Contribution Graphic">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lauropjdutra&bg_color=00000000&color=00bfbf&line=00aeae&point=00dfdf&hide_border=true" alt="Lauro Dutra's Contribution Graphic">
 </div>
 
 <br>
@@ -21,7 +20,7 @@
 
   - 🤩️ Amante de tecnologia, café, filmes, livros e synthwave
   - 🚀 Estou sempre buscando conhecimento para poder me destacar no mercado de trabalho e, assim, alcançar minha tão sonhada primeira vaga como Desenvolvedor Front-End
-  - 💻 Estudo na <a href="https://www.estacio.com.br" target="_blank">Estácio</a>, na qual estou aprendendo e praticando <b>Python</b>, e na escola de formação Fullstack <a href="https://www.devclub.com.br" target="_blank">DevClub</a>, onde estou praticando <b>JavaScript</b> e <b>React</b>
+  - 💻 Estudo na <a href="https://www.estacio.br" target="_blank">Estácio</a> e na escola de formação Fullstack <a href="https://www.rodolfomori.com.br" target="_blank">DevClub</a>;       estou praticando <b>JavaScript</b> e <b>React</b>  no DevClub e <b>Python</b> na Estácio
   - 👨🏻‍💻 Meu objetivo é me tornar um Desenvolvedor Front-End Web e Mobile
 
 <br>
@@ -57,15 +56,9 @@
 
 <div align="center">
  <h3>Connect with me:</h3>
- <a href="https://www.linkedin.com/in/lauropjdutra/" target="blank"><img alt="LinkedIn" height="24px" src="https://img.icons8.com/ios-glyphs/240/c9d1d9/linkedin-2--v1.png"></a>
- <a href="https://www.instagram.com/lauropjdutra" target="_blank"><img alt="Instagram" height="24px" src="https://img.icons8.com/material-outlined/192/c9d1d9/instagram-new--v1.png"></a>
- <a href="mailto:lauropjdutra@gmail.com" target="_blank"><img alt="Gmail" height="24px" src="https://img.icons8.com/material-outlined/192/c9d1d9/gmail-new.png"></a>
+ <a href="https://www.linkedin.com/in/lauropjdutra/" target="blank"><img alt="LinkedIn" height="24px" src="https://img.icons8.com/ios-glyphs/240/00bfbf/linkedin-2--v1.png"></a>
+ <a href="https://www.instagram.com/lauropjdutra" target="_blank"><img alt="Instagram" height="24px" src="https://img.icons8.com/material-outlined/192/00bfbf/instagram-new--v1.png"></a>
+ <a href="mailto:lauropjdutra@gmail.com" target="_blank"><img alt="Gmail" height="24px" src="https://img.icons8.com/material-outlined/192/00bfbf/gmail-new.png"></a>
  </div>
-
-<br>
-
-<div align="center">
-  <img width="25" height="25" src="https://img.icons8.com/ios-filled/100/00bfbf/source-code.png" alt="source-code"/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
