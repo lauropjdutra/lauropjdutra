@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=120&section=header" alt="Blue Waves">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=header" alt="Blue Waves">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5289ab&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lauro;Tenho+24+anos;Moro+no+estado+de+Goiás+;Sou+um+Desenvolvedor+Front-End;Atualmente+estudo+JavaScript+e+React;Estou+graduando+em+Engenharia+de+Software;Boas-vindas!+:%29)](https://git.io/typing-svg)
 
@@ -54,13 +54,13 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lauropjdutra&show_icons=true&count_private=true&hide_border=true&title_color=dcdcdc&icon_color=dcdcdc&text_color=5289ab&theme=transparent&border_radius=10" alt="Lauro Dutra's GitHub Stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropjdutra&layout=compact&hide_border=true&title_color=dcdcdc&text_color=5289ab&theme=transparent&border_radius=10" alt="Lauro Dutra's Most Used Languages">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropjdutra&layout=compact&hide_border=true&title_color=dcdcdc&text_color=5a94b8&theme=transparent&border_radius=10" alt="Lauro Dutra's Most Used Languages">
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lauropjdutra&bg_color=00000000&color=dcdcdc&line=5289ab&point=3E6E8C&hide_border=true" alt="Lauro Dutra's Contribution Graphic">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lauropjdutra&bg_color=00000000&color=dcdcdc&line=3E6E8C&point=5289ab&hide_border=true" alt="Lauro Dutra's Contribution Graphic">
 </div>
 
 <br>
@@ -72,4 +72,4 @@
  <a href="mailto:lauropjdutra@gmail.com" target="_blank"><img alt="Gmail" height="24px" src="https://img.icons8.com/material-outlined/192/5289ab/gmail-new.png"></a>
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=footer"/>
