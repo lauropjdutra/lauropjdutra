@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=header" alt="Blue Waves">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5289ab&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lauro;Tenho+25+anos;Moro+em+Bela+Vista+de+Goiás+;Sou+Desenvolvedor+Web;Atualmente+estudo+React+e+Node;Estou+graduando+em+Engenharia+de+Software;Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5289ab&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lauro;Moro+em+Bela+Vista+de+Goiás+;Sou+Desenvolvedor+Web;Atualmente+estudo+React+e+Node;Estou+graduando+em+Engenharia+de+Software;Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <br>
 <div>
