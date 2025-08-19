@@ -11,7 +11,7 @@
   <br>
   • 🎯 Meu objetivo é trabalhar como Desenvolvedor Web e conseguir minha primeira oportunidade na área
   <br>
-  • 🎓 Estudo na <a href="https://www.estacio.br" target="_blank">Estácio</a>, onde estou cursando o 5º período de Engenharia de Software
+  • 🎓 Estudo na <a href="https://www.estacio.br" target="_blank">Universidade Estácio de Sá</a>, onde atualmente curso o 5º período de Engenharia de Software
 </div>
 
 #
